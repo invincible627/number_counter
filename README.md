@@ -7,9 +7,9 @@ english and persian
 googletrans
 I just learned this library and I decided to use it in this small project and work with it little by little, so it is not like the previous projects I made, and the Persian version is also available in the folder separately.
 #### created by
-powerful392
+invincible627
 ##### github profile link
-https://github.com/powerful392
+https://github.com/invincible627
 
 
 # شمارنده ی عدد
@@ -20,6 +20,6 @@ https://github.com/powerful392
 ### کتابخانه ی مورد نیاز
 این کتابخانه رو تازه یاد گرفتم و تصمیم گرفتم در این پروژه ی کوچک استفاده کنم و کم کم باهاش کار کنم، برای همین مثل پروژه های قبل که ساختم نیست و ورژن فارسی درون پوشه به صورت جداگانه هم وجود داره
 #### ساخته شده به دست
-powerful392
+invincible627
 ##### لینک پروفایل گیتهاب
-https://github.com/powerful392
+https://github.com/invincible627
